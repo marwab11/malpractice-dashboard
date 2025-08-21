@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.DS_Store
+
+# Virtual env
+venv/
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Data files — keep folder, ignore contents
+data/*
+!data/README.md
+!data/.gitkeep
+
+# Generated images — keep one hero screenshot if you add it
+assets/*
+!assets/README.md
+!assets/hero_dashboard.png
+
