@@ -1,7 +1,7 @@
 # Medical Malpractice Claims — Interactive Dashboard (Dash/Plotly)
 
 The project includes an exploratory data analysis and
-an interactive dashboard for exploring malpractice claims at scale.
+an interactive dashboard for exploring medical malpractice claims at scale.
 
 **Data source (not included):**
 Kaggle — *Medical Malpractice Insurance Dataset*  
